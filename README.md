@@ -29,4 +29,4 @@ All zabbix framework running in kubernetes
    `kubectl delete service zabbix-server`
    
    
-   For more tips, check https://kubernetes.io/
+   For more tips, visit the kubernetes documentation page: https://kubernetes.io/
